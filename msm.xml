@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://m.nexon.com/forum/310</id>
+  <title>MapleStory M</title>
+  <updated>2021-12-10T07:33:18.728937+00:00</updated>
+  <link href="https://m.nexon.com/forum/310"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>95397</id>
+    <title>【 活動-甘迪的每日賓果 】</title>
+    <updated>2021-12-09T10:00:00+08:00</updated>
+    <link href="https://m.nexon.com/forum/thread/95397" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>95348</id>
+    <title>【 12 月 9 日組合包商店更新 】</title>
+    <updated>2021-12-09T10:00:00+08:00</updated>
+    <link href="https://m.nexon.com/forum/thread/95348" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>95414</id>
+    <title>【 停權玩家清單 - 2021/11/30 】</title>
+    <updated>2021-12-09T09:53:44+08:00</updated>
+    <link href="https://m.nexon.com/forum/thread/95414" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>95415</id>
+    <title>【 停權玩家清單 - 2021/12/07 】</title>
+    <updated>2021-12-09T09:53:40+08:00</updated>
+    <link href="https://m.nexon.com/forum/thread/95415" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>95400</id>
+    <title>【 公告-12 / 8 (三) 更新後已知問題公告 】</title>
+    <updated>2021-12-08T15:53:17+08:00</updated>
+    <link href="https://m.nexon.com/forum/thread/95400" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>95347</id>
+    <title>【 12 月 8 日組合包商店更新 】</title>
+    <updated>2021-12-08T10:00:00+08:00</updated>
+    <link href="https://m.nexon.com/forum/thread/95347" rel="alternate"/>
+  </entry>
+</feed>
